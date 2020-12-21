@@ -1,3 +1,9 @@
 # TV_show_search_app
 
-TV show search app made with React, React router and React Context API - working version on https://tv-show-search.netlify.app/
+Simple **TV show search** app.
+
+Made with: _React.js, HTML, CSS, React Hooks, React router and React Context API_...
+
+Deployed version - https://tv-show-search.netlify.app/
+
+<hr>
